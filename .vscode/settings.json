@@ -1,0 +1,6 @@
+{
+  "markdownlint.run": "onSave",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.markdownlint": "explicit"
+  }
+}
